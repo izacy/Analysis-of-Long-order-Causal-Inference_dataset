@@ -4,7 +4,7 @@
 📄 技术文档 • 🤖 数据处理工具 • 🔍 标注指南 • 📊 质量评估
 </p>
 
-Read this in [English](README_en.md)
+~~Read this in [English](README_en.md)~~
 
 ## 项目更新
 
