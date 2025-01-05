@@ -115,8 +115,8 @@
 
 ## 使用说明
 
-1. 下载process.py
-2. 安装requirement.txt
+1. 使用git clone下载process.py和requirements.txt
+2. 使用pip install -r requirement.txt进行依赖安装 ~~如果安装失败可以使用pip install pandas, zhipuai~~
 3. 按照代码中的说明修改你的文件和路径
 4. 点击运行，开始运行代码
 5. 得出运行结果
