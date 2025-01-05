@@ -35,7 +35,7 @@
 
 **处理要求：**
 - SenseVoice：手动进行说话人分割
-- 飞书妙记：人工复查转录文本
+- 飞书妙记/讯飞听见：人工复查转录文本
 - 清理无关内容（片头片尾、独白等）
 - 导出为纯文本格式（txt)
 
@@ -116,7 +116,7 @@
 ## 使用说明
 
 1. 使用git clone下载process.py和requirements.txt
-2. 使用pip install -r requirement.txt进行依赖安装 ~~如果安装失败可以使用pip install pandas, zhipuai~~
+2. 使用pip install -r requirements.txt进行依赖安装 ~~如果安装失败可以使用pip install pandas, zhipuai~~
 3. 按照代码中的说明修改你的文件和路径
 4. 点击运行，开始运行代码
 5. 得出运行结果
